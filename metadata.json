@@ -1,0 +1,5 @@
+{
+  "name": "AceAI - 智能学习伴侣",
+  "description": "专为计算机专业学生打造的AI复习工具。上传课程资料，即可生成自适应测验、代码挑战和图表分析，并获得实时AI反馈与个性化学习计划。",
+  "requestFramePermissions": []
+}
